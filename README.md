@@ -2,9 +2,15 @@
 
 # 🌿 Cuadro sinóptico – Capítulo 10: Calidad de vida y conservación del medio ambiente
 
-
+```mermaid
 graph TD
-    A[Calidad de vida y conservación del medio ambiente] 
+    A[Calidad de vida y conservación del medio ambiente] --> B[Fundamentos]
+    B --> C[Preocupación reciente]
+    B --> D[OMS: defunciones ligadas al ambiente]
+    B --> E[Nuevo objetivo: calidad de vida + conservación]
+```
+
+nte] 
 
     A --> B[Fundamentos]
     B --> B1[Preocupación reciente]
