@@ -2,7 +2,7 @@
 
 # 🌿 Cuadro sinóptico – Capítulo 10: Calidad de vida y conservación del medio ambiente
 
-```mermaid
+
 graph TD
     A[Calidad de vida y conservación del medio ambiente] 
 
